@@ -1,1 +1,1 @@
-MIT professor
+MIT
